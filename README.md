@@ -6,3 +6,4 @@
 - Fácil personalização.
 - Transformações e transições CSS.
 - Apenas 2 Kb! (min e gzip)
+- Responsivo
